@@ -3,6 +3,7 @@
 
 ##run_analysis.R contians the Rcode
 ##CodeBook.md contians the description of each variable
+## groupdata.txt contains average data for the entire group
 ##tidydata.txt contains tide data
 ##rawdata.txt contains combined raw data
 
